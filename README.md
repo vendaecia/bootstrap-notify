@@ -21,6 +21,9 @@ meteor add mouse0270:bootstrap-notify
 ```
 
 ## Changelog
+#### Version 3.2.0 provided by
+- Implemented OnDismiss
+- Fixed: js compressed updated
 #### Version 3.1.5 provided by [chrismbarr](https://github.com/chrismbarr) - *Testing*
 - Cleaned Up Code
 - Fixed Spelling
